@@ -1,0 +1,15 @@
+.box{
+    position: absolute;
+    right: 100px;
+    top: 70px;
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+}
+.box-parents{
+    margin: 50px;
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+}
